@@ -1,4 +1,4 @@
-// components/ThemeToggle.jsx
+
 import { useEffect, useState } from 'react';
 import { FaMoon, FaSun } from 'react-icons/fa';
 

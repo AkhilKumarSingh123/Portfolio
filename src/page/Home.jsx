@@ -9,11 +9,6 @@ import Contact from '../component/Contact.jsx'
 import Resume from '../component/Resume.jsx'
 import GitHub from '../component/Github.jsx'
 import Footer from '../component/Footer.jsx'
-
-
-
-
-
 import React from 'react'
 
 const Home = () => {

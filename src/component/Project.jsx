@@ -1,5 +1,4 @@
 
-
 import React, { useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
@@ -17,6 +16,17 @@ const projectsData = [
     code: 'https://github.com/AkhilKumarSingh123/MediAlert-AI',
     type: 'Featured',
     category: 'Backend',
+  },
+  {
+    title: 'Personal Portfolio Website',
+    image: '../Portfolio.png', // Replace with your actual image path
+    description:
+      'A modern, responsive portfolio built with React and Tailwind CSS. Showcases projects, skills, resume, and contact information with animations and clean UI.',
+    tags: ['ReactJS', 'Tailwind CSS', 'JavaScript', 'Vite'],
+    liveDemo: 'https://akhil-kumar-singh-portfolio-llge.onrender.com', // Replace with your live link
+    code: 'https://github.com/AkhilKumarSingh123/Portfolio', // Replace with your GitHub link
+    type: 'Featured',
+    category: 'Frontend',
   },
   {
     title: 'Employees Management System',
