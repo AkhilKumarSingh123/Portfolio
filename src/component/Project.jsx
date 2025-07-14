@@ -32,12 +32,12 @@ const projectsData = [
     title: 'Employees Management System',
     image: '../EMS.jpeg',
     description:
-      'A task management system with admin-controlled task assignment and employee tracking. Built with Local Storage for real-time updates.',
+      'A Task Management System built using MERN Stack with admin-controlled assignment, employee dashboards, and real-time tracking via MongoDB Storage.',
     tags: ['HTML', 'CSS', 'JavaScript', 'Local Storage'],
-    liveDemo: 'https://your-ems.vercel.app',
-    code: 'https://github.com/AkhilKumarSingh123/EMS_LocalStorage',
+    liveDemo: 'https://ems-p5ma.onrender.com',
+    code: 'https://github.com/AkhilKumarSingh123/EMS',
     type: 'Featured',
-    category: 'Frontend',
+    category: 'Backend',
   },
   {
     title: 'Bookstore Application (MERN Stack)',
